@@ -1,4 +1,4 @@
-
+# Social App
 SocialApp is a Django-based web application that serves as a social platform, offering features similar to popular social media platforms like Instagram.
 
 Features

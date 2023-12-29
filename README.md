@@ -1,7 +1,7 @@
 # Social App
 SocialApp is a Django-based web application that serves as a social platform, offering features similar to popular social media platforms like Instagram.
 
-Features
+## Features
 
 - **User Authentication:** Secure user authentication system with login and registration.
 - **Profiles:** User profiles with customizable avatars and bio information.
@@ -10,6 +10,27 @@ Features
 - **Likes:** Interact with posts through likes.
 - **Follow/Unfollow:** Follow or unfollow other users to customize your feed.
 
+## Technologies Used
+
+- **Django:** Backend web framework for building robust and scalable applications.
+- **SQLite:** Lightweight and versatile database engine.
+- **HTML, CSS, JavaScript:** Frontend technologies for crafting the user interface.
+- **Bootstrap:** Frontend framework for responsive and attractive design.
+- **Python:** Programming language for backend development.
+
+## Screenshots
+
+![Screenshot 1](/screenshots/Screenshot1.png)
+*Home*
+
+![Screenshot 2](/screenshots/Screenshot2.png)
+*Register*
+
+![Screenshot 3](/screenshots/Screenshot3.png)
+*Login*
+
+![Screenshot 4](/screenshots/Screenshot4.png)
+*Profile*
 
 ## Installation
 
